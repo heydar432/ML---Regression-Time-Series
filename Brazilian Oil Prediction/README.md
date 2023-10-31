@@ -32,18 +32,18 @@ The dataset undergoes several transformations:
 ## 🧪 Methodologies
 ### 📉 Linear Regression Model
 This method employs a Linear Regression model to forecast monthly oil production. Each forecasted month's value is then re-integrated into the dataset for subsequent predictions. Here's an insight into the results achieved using the model:
-* **Intercept:** 4059402.3957887287
-* **Regression Score:** 0.9705558174249665
+* **Intercept:** 4059402.396
+* **Regression Score:** 0.970
 
 ### 📊 Prophet Forecasting
 The Prophet library is harnessed to project monthly oil production for the subsequent 24 months, supplemented with visual insights into its components, notably the trend.
 
 ## 📈 Model Scores
 Evaluation metrics for the Prophet model are as follows:
-- **Mean Squared Error (MSE):** 46639961341.9966
-- **Mean Absolute Error (MAE):** 177165.8899606352
-- **Mean Absolute Percentage Error (MAPE):** 0.05032680609149977
-- **R-squared (R2):** 0.9570427032705945
+- **Mean Squared Error (MSE):** 46639961341.996
+- **Mean Absolute Error (MAE):** 177165.889
+- **Mean Absolute Percentage Error (MAPE):** 0.0503
+- **R-squared (R2):** 0.957
 
 ## 🖼 Visualization
 The results are illustrated through:
