@@ -1,5 +1,7 @@
 # Stock Price Prediction: AABA
 
+![image](https://github.com/heydar432/ML---Regression-Time-Series/assets/65925995/b2912f59-a659-47a5-8843-15c7b6e3af1b)
+
 Analyze and predict AABA stock prices using the Prophet library.
 
 ## 📊 Dataset 
