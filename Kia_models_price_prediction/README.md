@@ -1,4 +1,5 @@
 # Turbo.az Web Scraping and Data Analysis Project
+![image](https://github.com/heydar432/ML---Regression-Time-Series/assets/65925995/ef17e5ea-ffa4-41ac-96c5-b1fa932dda67)
 
 ## Overview
 This project scrapes vehicle data from Turbo.az, focusing on the Kia brand. The dataset undergoes preprocessing, feature selection, and is analyzed using a linear regression model to predict vehicle prices.
