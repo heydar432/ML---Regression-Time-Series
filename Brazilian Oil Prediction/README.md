@@ -1,4 +1,6 @@
 # 🛢 Monthly Oil Production Forecast
+![image](https://github.com/heydar432/ML---Regression-Time-Series/assets/65925995/61bfed65-2138-4c0a-a4ce-b977fd5709f4)
+
 
 A project that leverages both Linear Regression and the Prophet library to forecast monthly oil production in Brasil.
 
