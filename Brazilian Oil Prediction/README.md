@@ -1,6 +1,6 @@
 # 🛢 Monthly Oil Production Forecast
 
-A project that leverages both Linear Regression and the Prophet library to forecast monthly oil production.
+A project that leverages both Linear Regression and the Prophet library to forecast monthly oil production in Brasil.
 
 ## 📋 Table of Contents
 - [Introduction](#introduction)
