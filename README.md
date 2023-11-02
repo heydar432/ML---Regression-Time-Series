@@ -15,14 +15,11 @@ This repository contains projects focusing on Regression and Time Series analysi
 
 ### Kia Models Price Prediction
 
-- **Techniques Used**: Multiple Linear Regression, Random Forest Regressor
-- **Brief Description**: An analysis to predict the prices of various Kia vehicle models based on multiple influencing attributes.
+- **Techniques Used**: Multiple Linear Regression
+- **Brief Description**: An analysis to predict the prices of scraped various Kia vehicle models based on multiple influencing attributes from Turbo.az website.
 
 ### Stock Price Prediction
 
-- **Techniques Used**: ARIMA, LSTM Neural Networks
+- **Techniques Used**: Prophet library
 - **Brief Description**: A venture into forecasting stock prices, aimed at assisting with informed investment decisions.
 
-## Getting Started
-
-1. Clone this repository:
