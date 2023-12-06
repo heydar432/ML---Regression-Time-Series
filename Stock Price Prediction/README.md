@@ -15,17 +15,11 @@ This project works with the historical data of AABA stock prices. It processes t
 
 ## 🛠 Prerequisites
 
-Ensure the following Python libraries are installed:
+Python libraries are installed:
 
 - `pandas`
 - `prophet`
 - `matplotlib`
-
-## 🚀 Getting Started
-
-1. Clone the repository.
-2. Install the required libraries.
-3. Run the main script to see the predictions and visualizations.
 
 ## 📉 Visualization 
 
